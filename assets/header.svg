@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="190" viewBox="0 0 854 190" role="img" aria-label="SHUBHAM">
+  <defs>
+    <linearGradient id="hg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00fff2">
+        <animate attributeName="offset" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7ffbf4">
+        <animate attributeName="offset" values="0;0.5;1;0.5;0" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00fff2">
+        <animate attributeName="offset" values="1;0;1" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <path d="" fill="url(#hg)" opacity="0.45">
+      <animate attributeName="d" dur="18s" repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" calcMode="spline" begin="0s"
+        values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
+      </animate>
+    </path>
+  </g>
+  <g>
+    <path d="" fill="url(#hg)" opacity="0.45">
+      <animate attributeName="d" dur="18s" repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" calcMode="spline" begin="-9s"
+        values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
+      </animate>
+    </path>
+  </g>
+
+  <text x="427" y="100" text-anchor="middle" dominant-baseline="middle"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="66" font-weight="700" fill="#0f0c29" opacity="0.35">SHUBHAM</text>
+  <text x="427" y="100" text-anchor="middle" dominant-baseline="middle"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="66" font-weight="700" fill="url(#tg)">
+    <animate attributeName="opacity" values="1;0.85;1" dur="4s" repeatCount="indefinite"/>
+    SHUBHAM
+  </text>
+
+  <text x="427" y="152" text-anchor="middle" dominant-baseline="middle"
+    font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
+    font-size="17" font-weight="500" fill="#00fff2" opacity="0.9">&lt; SYSTEM ONLINE /&gt;</text>
+</svg>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SHUBHAM&fontSize=70&fontColor=00fff2&fontAlignY=40&desc=%3C%20SYSTEM%20ONLINE%20/%3E&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="assets/header.svg" alt="SHUBHAM header" width="100%"/>
 
 <br/>
 
