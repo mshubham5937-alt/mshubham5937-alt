@@ -44,9 +44,7 @@
 <div align="center">
 
 <a href="https://github.com/mshubham5937-alt"><img src="https://img.shields.io/badge/GITHUB-00fff2?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-00fff2?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" /></a>
-<a href="#"><img src="https://img.shields.io/badge/TWITTER-00fff2?style=for-the-badge&logo=x&logoColor=0d1117&labelColor=0d1117" /></a>
-<a href="#"><img src="https://img.shields.io/badge/EMAIL-00fff2?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/shubham-patel-b4247b376?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LINKEDIN-00fff2?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" /></a>
 
 </div>
 
