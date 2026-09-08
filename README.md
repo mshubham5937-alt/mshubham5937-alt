@@ -62,7 +62,25 @@
 
 <img src="https://komarev.com/ghpvc/?username=mshubham5937-alt&label=PROFILE+VIEWS&color=00fff2&style=for-the-badge&labelColor=0d1117" />
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 〈 CONTRIBUTION SIGNAL 〉
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mshubham5937-alt/mshubham5937-alt/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mshubham5937-alt/mshubham5937-alt/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/mshubham5937-alt/mshubham5937-alt/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
 
