@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="96" viewBox="0 0 560 96" role="img" aria-label="system loading">
+  <text x="0" y="24" font-family="monospace" font-size="14" fill="#00E5FF">INITIALIZING NEXUS_PROFILE...&gt;</text>
+  <rect x="0" y="40" width="560" height="8" rx="4" fill="#161B22"/>
+  <rect x="0" y="40" height="8" rx="4" fill="#00E5FF">
+    <animate attributeName="width" values="0%;84%;0%" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="0" y="70" font-family="monospace" font-size="12" fill="#8B949E">LOADING SKILLS, PROJECTS, TELEMETRY...</text>
+  <text x="270" y="70" font-family="monospace" font-size="13" fill="#8B5CF6">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+    |
+  </text>
+</svg>
